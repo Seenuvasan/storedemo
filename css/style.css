@@ -1,5 +1,5 @@
 /*
-Template Name: Electro - HTML Ecommerce Template
+Template Name: StoreFront - HTML Template
 Author: yaminncco
 
 Colors:
@@ -863,6 +863,15 @@ textarea.input {
   transition: 0.2s all;
 }
 
+.signup {
+  position: relative;
+  margin: 15px 0px;
+  -webkit-box-shadow: 0px 0px 0px 0px #E4E7ED, 0px 0px 0px 1px #E4E7ED;
+  box-shadow: 0px 0px 0px 0px #E4E7ED, 0px 0px 0px 1px #E4E7ED;
+  -webkit-transition: 0.2s all;
+  transition: 0.2s all;
+}
+
 .product:hover {
   -webkit-box-shadow: 0px 0px 6px 0px #E4E7ED, 0px 0px 0px 2px #D10024;
   box-shadow: 0px 0px 6px 0px #E4E7ED, 0px 0px 0px 2px #D10024;
@@ -1295,7 +1304,7 @@ display:none;
 .store-filter {
   margin-bottom: 15px;
   margin-top: 15px;
-  display:none;
+
 }
 #aside, #navigation, #breadcrumb, #newsletter
 {
